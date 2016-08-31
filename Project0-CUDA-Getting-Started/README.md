@@ -9,8 +9,8 @@ Project 0 CUDA: Getting Started
 ## Screenshots
 
 *Part 4 - Output*: 
-![](images\Project0_Output.png)
+![](images/Project0_Output.PNG)
 
 
 *Part 5 - NSight Timeline*: 
-![](images\NSight_Timeline.png)
+![](images/NSight_Timeline.PNG)
